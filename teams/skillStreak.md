@@ -3,5 +3,5 @@
 # Amir Jordan
 #
 #
-# Keith Bruce, [krby4]{https://github.com/krby4}
+# Keith Bruce, [krby4](https://github.com/krby4)
 #
