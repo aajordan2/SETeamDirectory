@@ -1,6 +1,6 @@
 ## Team names:
 
-# Amir Jordan
+# Amir Jordan, [aajordan2]{https://github.com/aajordan2}
 #
 #
 # Keith Bruce, [krby4]{https://github.com/krby4}
