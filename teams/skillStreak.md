@@ -1,7 +1,7 @@
-Team names:
+## Team names:
 
-- Amir Jordan
--
--
-- Keith Bruce - https://github.com/krby4
--
+# Amir Jordan
+#
+#
+# Keith Bruce, [krby4]{https://github.com/krby4}
+#
