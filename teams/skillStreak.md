@@ -1,6 +1,6 @@
 Team names:
 
--Amir Jordan
+- Amir Jordan
 -
 -
 -
